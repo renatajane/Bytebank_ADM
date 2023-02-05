@@ -30,7 +30,7 @@ using Bytebank_ADM.Utilitario;
 //Console.WriteLine ("O novo salário de Roberta é:" + roberta.Salario); 
 #endregion
 
-//CalcularBonificacao();
+CalcularBonificacao();
 UsarSistema();
 
 void CalcularBonificacao()
